@@ -1,0 +1,80 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+  background-color: peachpuff;
+}
+img {
+   width: 15%;
+   float: left;
+   border: 5px solid palevioletred;
+}
+aside {
+    width: 65%;
+    float: right;
+    border: 15px solid palevioletred;
+    padding: 50px;
+    margin: 20px;
+  }
+header {
+    font-family: 'Tilt Prism';
+    width: 70%;
+    float: right;
+    color: purple;
+    border-style: dotted;
+    border-color: purple;
+    padding: 1px 1px 1px 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+h2{
+    border-style: double;
+    border-color: purple;
+    color: black;
+    padding: px 1px 1px 20px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-right: 150px;
+
+}
+h3{
+  color: purple;
+  border-style: outset;
+
+  
+}
+
+
+article {
+    width: 25%;
+    float: left;
+    border: 15px solid palevioletred;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  span{
+    font-family: 'Shantell Sans', cursive;
+    color: black;
+  }
+
+p {
+    color: purple;
+
+}
+
+p1{
+  color: purple;
+  border-bottom: 0cap;
+}
+
+footer{
+  width: 30%;
+  float: left;
+}
